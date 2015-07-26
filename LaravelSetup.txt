@@ -1,0 +1,2 @@
+cmd - Laravel new ProjectName 
+        ^ Sets up the File, do this in www directory of Wamp.
